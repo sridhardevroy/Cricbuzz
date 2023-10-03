@@ -1,0 +1,6 @@
+framework module Pods_CricBuzzAssignmentTests {
+  umbrella header "Pods-CricBuzzAssignmentTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
